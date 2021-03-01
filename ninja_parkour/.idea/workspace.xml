@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa3e2e41-f2df-4f16-a395-3ab2ca081f74" name="Default Changelist" comment="2 Dec">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configurations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loadResource.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/NARUTO Main Theme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/bgm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/gameover.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/jump.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/running.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sounds/running.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Clouds.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Moon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_Moon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_mockup.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_mockup.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_silhouettes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/BG_silhouettes.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/backgroundninja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/fog1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/fog2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/fog3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/menu_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/mountain1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/mountain2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/mountain3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Background/mountain4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Introduction/arrow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Introduction/esc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Introduction/space1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/Introduction/text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/game_over_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/game_over/gameover.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/map/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Sprites/ninja/ninja_spritesheet-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/ninja.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/StartingMenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/credits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/game_over.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/game_play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scenes/scene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NinjaSprites.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parkour.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/character.py" beforeDir="false" afterPath="$PROJECT_DIR$/character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="fcb4921f-9174-461c-8935-a20a7f3123da" />
+  <component name="ProjectId" id="1kPsxG6EpsemewhMEWQw91MPQ98" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scenes" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="configurations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pygame_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/configurations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="constants" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pygame_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constants.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="l26" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pygame_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/l26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loadResource" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pygame_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loadResource.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pygame_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprite_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/mle_tf/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sprite_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.constants" />
+      <item itemvalue="Python.l26" />
+      <item itemvalue="Python.loadResource" />
+      <item itemvalue="Python.sprite_test" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.configurations" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.configurations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa3e2e41-f2df-4f16-a395-3ab2ca081f74" name="Default Changelist" comment="" />
+      <created>1605531307364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605531307364</updated>
+      <workItem from="1605531309057" duration="179000" />
+      <workItem from="1605611505334" duration="1338000" />
+      <workItem from="1605613439641" duration="95000" />
+      <workItem from="1605613819009" duration="1197000" />
+      <workItem from="1605615052909" duration="295000" />
+      <workItem from="1605615373036" duration="413000" />
+      <workItem from="1605615801148" duration="288000" />
+      <workItem from="1605616162930" duration="3304000" />
+      <workItem from="1605884115765" duration="37000" />
+      <workItem from="1605884623048" duration="22000" />
+      <workItem from="1606074876888" duration="28000" />
+      <workItem from="1606074923835" duration="245000" />
+      <workItem from="1606075187556" duration="25000" />
+      <workItem from="1606129550207" duration="5063000" />
+      <workItem from="1606487144408" duration="1402000" />
+      <workItem from="1606494080936" duration="230000" />
+      <workItem from="1606570145249" duration="5177000" />
+      <workItem from="1606576937861" duration="264000" />
+      <workItem from="1606577207102" duration="5469000" />
+      <workItem from="1606613897329" duration="43845000" />
+      <workItem from="1606961655902" duration="7575000" />
+      <workItem from="1607026210569" duration="38296000" />
+      <workItem from="1607356715956" duration="78779000" />
+      <workItem from="1607612458214" duration="1361000" />
+      <workItem from="1607614625621" duration="46000" />
+      <workItem from="1607614697485" duration="85000" />
+      <workItem from="1607614825588" duration="890000" />
+      <workItem from="1607616667924" duration="990000" />
+      <workItem from="1607618605813" duration="5185000" />
+      <workItem from="1607628245680" duration="2046000" />
+      <workItem from="1607630516751" duration="37000" />
+      <workItem from="1607632768212" duration="238000" />
+      <workItem from="1607713478328" duration="3139000" />
+      <workItem from="1610907080336" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Dec" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607726754963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607726754963" />
+    <state width="1495" height="72" key="GridCell.Tab.0.bottom" timestamp="1607741234894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="72" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607741234894" />
+    <state width="1495" height="72" key="GridCell.Tab.0.center" timestamp="1607741234894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="72" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607741234894" />
+    <state width="1495" height="72" key="GridCell.Tab.0.left" timestamp="1607741234894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="72" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607741234894" />
+    <state width="1495" height="72" key="GridCell.Tab.0.right" timestamp="1607741234894">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="72" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607741234894" />
+    <state x="309" y="58" key="SettingsEditor" timestamp="1607726682828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607726682828" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ninja_parkour$configurations.coverage" NAME="configurations Coverage Results" MODIFIED="1607628391472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ninja_parkour$main.coverage" NAME="main Coverage Results" MODIFIED="1607629986555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pygame_project$sprite_test.coverage" NAME="sprite_test Coverage Results" MODIFIED="1606572085168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/map_py$main.coverage" NAME="main Coverage Results" MODIFIED="1607741234882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pygame_project$constants.coverage" NAME="constants Coverage Results" MODIFIED="1606768098675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pygame_project$loadResource.coverage" NAME="loadResource Coverage Results" MODIFIED="1607291542715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pygame_project$main.coverage" NAME="main Coverage Results" MODIFIED="1607576776651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ninja_parkour$loadResource.coverage" NAME="loadResource Coverage Results" MODIFIED="1607629282842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pygame_project$l26.coverage" NAME="l26 Coverage Results" MODIFIED="1607277260590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
